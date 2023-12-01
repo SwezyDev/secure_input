@@ -1,3 +1,6 @@
+Install : ```bat pip install **SOON**```
+
+
 How to use :
 
 Python Example: 
