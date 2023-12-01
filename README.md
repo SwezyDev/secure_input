@@ -1,6 +1,8 @@
 Install : ```pip install **SOON**```
 PyPI : **SOON**
 
+---------------------------------------
+
 How to use :
 
 Python Example: 
