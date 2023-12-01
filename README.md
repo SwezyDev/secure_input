@@ -1,3 +1,4 @@
+![standard (3)](https://github.com/SwezyDev/secure_input/assets/109398018/72249ff7-eb81-4dbf-b9d9-accf1b359e65)
 [Discord](https://discord.gg/KkxjCe8Fg2)
 
 ---------------------------------------
