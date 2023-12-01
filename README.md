@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/github/contributors/SwezyDev/secure_input.svg?style=for-the-badge"/>
 
 </p>
+<p align="center">
+<p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
+</p>
 
 __Current Version__ : 1.0.1
 ![standard (3)](https://github.com/SwezyDev/secure_input/assets/109398018/72249ff7-eb81-4dbf-b9d9-accf1b359e65)
