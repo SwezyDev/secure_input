@@ -11,7 +11,7 @@ PyPI : **SOON**
 
 __How to use__ :
 
-Python Example : 
+**Python Example** : 
 
 ---------------------------------------
 ```py
