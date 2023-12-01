@@ -36,6 +36,7 @@ password = secure_input("Enter your Password: ")
 
 print(password)
 ```
+    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 ---------------------------------------
 
 __Notes__ : Ö Ä Ü ß Doesn't work only normal ASCII Letters, Numbers and Symbols like ! ? = ) ( / " $ % & \ } ] [ { € @ ~ + * # ' - _ . : ; , | < >
