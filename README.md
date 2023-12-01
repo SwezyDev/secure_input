@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/github/stars/SwezyDev/secure_input">
+<p align="center">
+ <img src="https://img.shields.io/github/stars/SwezyDev/secure_input">
 
 __Current Version__ : 1.0.1
 ![standard (3)](https://github.com/SwezyDev/secure_input/assets/109398018/72249ff7-eb81-4dbf-b9d9-accf1b359e65)
