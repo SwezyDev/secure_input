@@ -7,6 +7,8 @@
 
   <img src="https://img.shields.io/github/forks/SwezyDev/secure_input.svg?style=for-the-badge"/>
 
+  <img src="https://img.shields.io/github/contributors/SwezyDev/secure_input.svg?style=for-the-badge"/>
+
 </p>
 
 __Current Version__ : 1.0.1
