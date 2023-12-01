@@ -1,3 +1,5 @@
+[Discord](https://discord.gg/KkxjCe8Fg2)
+
 Install : ```pip install **SOON**```
 
 PyPI : **SOON**
