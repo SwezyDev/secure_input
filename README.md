@@ -23,6 +23,10 @@ print(password)
 ```
 ---------------------------------------
 
+__Notes__ : Ö Ä Ü ß Doesn't work only normal ASCII Letters and Symbols like ! ? = ) ( / " $ % & \ } ] [ { € @ ~ + * # ' - _ . : ; , | < >
+
+---------------------------------------
+
 ![image](https://github.com/SwezyDev/secure_input/assets/109398018/ee99a27d-21b0-4b73-a88c-c97811d43b3d)
 
 ---------------------------------------
