@@ -1,0 +1,11 @@
+Change Log
+==================
+
+1.0.0 (12/01/2023)
+------------------
+- First Release
+
+
+1.0.1 (12/01/2023)
+------------------
+- Added an Exception for non Unicode Characters ( Anti Crash )
