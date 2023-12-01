@@ -1,5 +1,6 @@
 ![standard (3)](https://github.com/SwezyDev/secure_input/assets/109398018/72249ff7-eb81-4dbf-b9d9-accf1b359e65)
 - [Discord](https://discord.gg/KkxjCe8Fg2)
+- [PyPI](https://media.istockphoto.com/id/1309023728/de/video/filmisches-intro-des-kommenden-baldigen-schriftzugs-aus-der-dunkelheit.jpg?s=640x640&k=20&c=_aBSCfvGZoyWvrBijcVe92eQy2ebItfZarCpLJSXtQA=)
 
 ---------------------------------------
 
