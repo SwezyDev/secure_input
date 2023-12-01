@@ -1,5 +1,4 @@
-Install : ```bat
-pip install **SOON**```
+Install : ```pip install **SOON**```
 
 
 How to use :
