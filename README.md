@@ -9,9 +9,9 @@ PyPI : **SOON**
 
 ---------------------------------------
 
-How to use :
+__How to use__ :
 
-Python Example: 
+Python Example : 
 
 ---------------------------------------
 ```py
