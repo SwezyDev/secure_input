@@ -1,4 +1,4 @@
-                                                    Leave a Star
+                                                  ⭐ Leave a Star ⭐
 <p align="center">
  <img src="https://img.shields.io/github/stars/SwezyDev/secure_input.svg?style=for-the-badge"/>
 
