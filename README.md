@@ -54,9 +54,4 @@ __Notes__ : Ö Ä Ü ß Doesn't work only normal ASCII Letters, Numbers and Symb
 
 ---------------------------------------
 
-__Why no PyPI Project yet?__ : They have problems with the registration for new User
-![image](https://github.com/SwezyDev/secure_input/assets/109398018/5718f711-890f-416c-8098-35a612e61916)
-
----------------------------------------
-
 - Swezy <3
