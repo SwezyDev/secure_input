@@ -55,3 +55,12 @@ __Notes__ : Ö Ä Ü ß Doesn't work only normal ASCII Letters, Numbers and Symb
 ---------------------------------------
 
 - Swezy <3
+
+<a href="https://star-history.com/#SwezyDev/secure_input&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SwezyDev/secure_input&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SwezyDev/secure_input&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SwezyDev/secure_input&type=Date" />
+  </picture>
+</a>
+
