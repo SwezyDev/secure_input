@@ -46,7 +46,7 @@ print(password)
 
 ---------------------------------------
 
-__Notes__ : Ö Ä Ü ß Doesn't work only normal ASCII Letters, Numbers and Symbols like ! ? = ) ( / " $ % & \ } ] [ { € @ ~ + * # ' - _ . : ; , | < >
+__Notes__ : Ö Ä Ü ß Doesn't work only normal ASCII Letters, Numbers and Symbols
 
 ---------------------------------------
 
