@@ -92,7 +92,7 @@ Distributed under the **MIT License** — see `LICENSE` for details.
 
 ## 👤 Maintainer & Contact
 
-* Maintainer: **Swezy** — [https://github.com/SwezyDev](https://github.com/SwezyDev)
+* Maintainer: [@SwezyDev](https://github.com/SwezyDev)
 * Telegram: [@Swezy](https://t.me/Swezy)
 
 ---
@@ -108,3 +108,4 @@ Distributed under the **MIT License** — see `LICENSE` for details.
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SwezyDev/secure_input&type=Date" />
   </picture>
 </a>
+
