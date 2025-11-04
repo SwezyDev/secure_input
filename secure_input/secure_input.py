@@ -24,6 +24,7 @@ def secure_input(prompt, show=str):
     except ImportError:
         import termios
         import sys
+        import tty
         fd = sys.stdin.fileno()
         old_settings = termios.tcgetattr(fd)
 

@@ -1,1 +1,1 @@
-Ö Ä Ü ß Doesn't work only normal ASCII Letters, Numbers and Symbols like ! ? = ) ( / " $ % & \ } ] [ { € @ ~ + * # ' - _ . : ; , | < >
+Non-ASCII characters (e.g. `Ö Ä Ü ß`) may not be handled correctly — use plain ASCII letters, numbers and symbols for best results.

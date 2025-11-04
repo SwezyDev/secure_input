@@ -1,5 +1,7 @@
 from secure_input import secure_input
 
-password = secure_input("Enter your Password: ", show="*")
-
-print(password)
+api_key = secure_input("API Key: ", show="*")
+if len(api_key) == 0:
+    print("No key provided")
+else:
+    print("Key received (length):", len(api_key))
