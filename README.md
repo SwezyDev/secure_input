@@ -5,7 +5,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python" alt="Python"></a>
   <a href="https://t.me/swezy" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Swezy-blue?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
   <br>
-  <a href="https://pypi.org/project/secure-input/"><img src="https://img.shields.io/badge/Version-1.1.2-green?style=for-the-badge&logo=pypi" alt="PyPI"></a>
+  <a href="https://pypi.org/project/secure-input/"><img src="https://img.shields.io/badge/Version-1.1.3-green?style=for-the-badge&logo=pypi" alt="PyPI"></a>
   <br>
   <code>Leave a ⭐ if you like this repository</code>
 </p>
